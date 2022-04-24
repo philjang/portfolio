@@ -2,7 +2,7 @@ export default function Contact() {
     return (
         <>
             <div className='d-flex flex-column center'>
-                <h1 className='my-5 animate__animated animate__fadeIn'>Let's get in touch.</h1>
+                <h1 className='my-5 animate__animated animate__fadeIn'>Let&apos;s get in touch.</h1>
                 <div className='contacts d-flex flex-column justify-content-around'>
                     <a href={`mailto: philjang.pr@gmail.com`}><i className='fas fa-envelope'></i> philjang.pr@gmail.com </a>
                     <p className='mb-0'><i className="fas fa-mobile-alt"></i> +1-(425)-345-5813</p>

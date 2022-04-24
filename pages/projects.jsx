@@ -33,7 +33,7 @@ export default function Projects() {
                     <div className="row my-5">
                         <div className="col mx-5 animate__animated animate__fadeInRight">
                             <h2>A Day in the Life</h2>
-                            <h3>A Day in the Life is a website that aims to make casual photo sharing more engaging again. See what other's are posting by checking out their profiles and comment on their photos!</h3>
+                            <h3>A Day in the Life is a website that aims to make casual photo sharing more engaging again. See what others are posting by checking out their profiles and comment on their photos!</h3>
                             <div className="row">
                                 <div className="link col center mx-5 mt-2">
                                     <a target='_blank' rel="noreferrer" href='https://github.com/philjang/day-in-life-client'><h5 className='mb-0'><i className="fab fa-github-alt"></i> Source Code</h5></a>
