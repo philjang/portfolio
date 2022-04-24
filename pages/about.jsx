@@ -14,7 +14,7 @@ export default function About() {
                     width={200}
                     height={200}
                     />
-                    <h3 className='ms-5 animate__animated animate__fadeIn'>It&apos;s nice to meet you. I'm a fullstack developer based in Seattle.</h3>
+                    <h3 className='ms-5 animate__animated animate__fadeIn'>It&apos;s nice to meet you. I&apos;m a fullstack developer based in Seattle.</h3>
                 </div>
                 <div className="d-flex flex-column align-items-center my-4">
                     <h4 className='mb-2 animate__animated animate__fadeIn'>Skills</h4>
