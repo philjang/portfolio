@@ -6,6 +6,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
+  text-align: center;
   /* background-color: aliceblue; */
 }
 
@@ -31,4 +32,27 @@ a {
 
 .project-screenshot {
   object-fit: contain;
+}
+
+.title {
+  font-size: 5rem;
+}
+
+.title-section {
+  height: 90vh;
+}
+
+/* .container {
+  background-color: powderblue;
+} */
+
+.link {
+  border: 2px solid black;
+  padding: 2px 2px;
+}
+
+.contacts {
+  text-align: left;
+  height: 40vh;
+  font-size: 1.5rem;
 }
